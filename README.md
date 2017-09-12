@@ -128,6 +128,10 @@ let deviceName = UIDevice.current.modelName
 | iPad Pro 12.9-Inch (Wi-Fi/Cellular) | iPad6,8 |
 | iPad 9.7-Inch 5th Gen (Wi-Fi Only) | iPad6,11 |
 | iPad 9.7-Inch 5th Gen (Wi-Fi/Cellular) | iPad6,12 |
+| iPad Pro 12.9-Inch (Wi-Fi Only - 2nd Gen) | iPad7,1 |
+| iPad Pro 12.9-Inch (Wi-Fi/Cell - 2nd Gen) | iPad7,2 |
+| iPad Pro 10.5-Inch (Wi-Fi Only) | iPad7,3 |
+| iPad Pro 10.5-Inch (Wi-Fi/Cellular) | iPad7,4 |
 
 ### iPod列表
 |   机型  |device_name| 
