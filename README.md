@@ -90,6 +90,15 @@ let deviceName = UIDevice.current.modelName
 | iPhone 7 Plus (China Mobile/A1786) | iPhone9,2 |
 | iPhone 7 (AT&T/T-Mobile/Global/A1778) | iPhone9,3 |
 | iPhone 7 Plus (AT&T/T-Mobile/Global/A1784) | iPhone9,4 |
+| iPhone 8 (Verizon/Sprint/China/A1863) | iPhone10,1 |
+| iPhone 8 (Japan/A1906) | iPhone10,1 |
+| iPhone 8 Plus (Verizon/Sprint/China/A1864) | iPhone10,2 |
+| iPhone 8 Plus (Japan/A1898) | iPhone10,2 |
+| iPhone X (Verizon/Sprint/China/A1865) | iPhone10,3 |
+| iPhone X (Japan/A1902) | iPhone10,3 |
+| iPhone 8 (AT&T/T-Mobile/Global/A1905) | iPhone10,4 |
+| iPhone 8 Plus (AT&T/T-Mobile/Global/A1897) | iPhone10,5 |
+| iPhone X (AT&T/T-Mobile/Global/A1901) | iPhone10,4 |
 
 ### iPad列表
 |   机型  |device_name| 
