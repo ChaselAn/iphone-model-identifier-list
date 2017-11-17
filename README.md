@@ -98,7 +98,7 @@ let deviceName = UIDevice.current.modelName
 | iPhone X (Japan/A1902) | iPhone10,3 |
 | iPhone 8 (AT&T/T-Mobile/Global/A1905) | iPhone10,4 |
 | iPhone 8 Plus (AT&T/T-Mobile/Global/A1897) | iPhone10,5 |
-| iPhone X (AT&T/T-Mobile/Global/A1901) | iPhone10,4 |
+| iPhone X (AT&T/T-Mobile/Global/A1901) | iPhone10,6 |
 
 ### iPad列表
 |   机型  |device_name| 
